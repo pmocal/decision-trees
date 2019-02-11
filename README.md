@@ -1,5 +1,3 @@
-Parthiv Mohan
-
 Parameters like MAXDEPTH, NUMTREES, and ITERS (number of iterations for cross validation) are all at the top of hw5.py.
 
 To just run random forest run the code as is.
